@@ -23,6 +23,7 @@ color12='#81A1C1'
 color13='#B48EAD'
 color14='#8FBCBB'
 color15='#ECEFF4'
+color16='#A7E4F2'
 
 accent='#81A1C1'
 light_value='0.05'

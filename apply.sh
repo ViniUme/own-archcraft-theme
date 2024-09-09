@@ -87,7 +87,7 @@ apply_rofi() {
 		    background:     ${background};
 		    background-alt: ${altbackground};
 		    foreground:     ${foreground};
-		    selected:       ${color4};
+		    selected:       ${color16};
 		    active:         ${color2};
 		    urgent:         ${color1};
 		    blue:			${color4};
