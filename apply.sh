@@ -87,7 +87,7 @@ apply_rofi() {
 		    background:     ${background};
 		    background-alt: ${altbackground};
 		    foreground:     ${foreground};
-		    selected:       ${accent};
+		    selected:       ${color4};
 		    active:         ${color2};
 		    urgent:         ${color1};
 		    blue:			${color4};

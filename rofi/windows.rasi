@@ -26,15 +26,15 @@ configuration {
     alternate-background:        var(background-alt);
     normal-background:           var(background);
     normal-foreground:           var(foreground);
-    urgent-background:           var(urgent);
+    urgent-background:           var(blue);
     urgent-foreground:           var(background);
     active-background:           var(active);
     active-foreground:           var(background);
-    selected-normal-background:  var(selected);
+    selected-normal-background:  var(blue);
     selected-normal-foreground:  var(background);
     selected-urgent-background:  var(active);
     selected-urgent-foreground:  var(background);
-    selected-active-background:  var(urgent);
+    selected-active-background:  var(blue);
     selected-active-foreground:  var(background);
     alternate-normal-background: var(background);
     alternate-normal-foreground: var(foreground);
