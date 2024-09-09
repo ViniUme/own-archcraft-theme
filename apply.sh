@@ -90,6 +90,7 @@ apply_rofi() {
 		    selected:       ${accent};
 		    active:         ${color2};
 		    urgent:         ${color1};
+		    blue:			${color4};
 		}
 	EOF
 
