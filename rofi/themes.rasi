@@ -19,7 +19,7 @@ configuration {
 @import                          "shared/fonts.rasi"
 
 * {
-    border-colour:               var(urgent);
+    border-colour:               var(blue);
     handle-colour:               var(selected);
     background-colour:           var(background);
     foreground-colour:           var(foreground);
